@@ -29,7 +29,7 @@ AI Integration: Python-based APIs
 npm install
 npm run dev
 
-Open the local URL shown in the terminal (usually http://localhost:5173).
+
 
 📦 Build for Production
 npm run build
